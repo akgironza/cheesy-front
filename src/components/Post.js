@@ -5,7 +5,7 @@ const Post = ({post}) => {
     // STYLE OBJECTS
     const div = {
         textAlign: "center",
-        border: "3px solid",
+        border: "3px solid orange",
         margin: "10px auto",
         width: "80%",
     };
