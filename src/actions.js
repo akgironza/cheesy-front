@@ -53,7 +53,7 @@ export const updateAction = async({request, params}) => {
     })
 
     // redirect back to show page
-    return redirect(`/post/${id}`)
+    return redirect(`/cheeses/${id}`)
 };
 
 // DELETE ACTION - Delete a cheese
